@@ -1,5 +1,7 @@
 # Take-Home Exercises - Jan 2025
 
+## Owner Justyn Fontaine
+
 > Exercises for this term are posted to this repository. You can copy these instructions to your exercise repository set up by your instructor for this term. However, any updates to the instructions will be placed within this repository.
 
 1. [Exercise 1](./Exercise1/README.md)
